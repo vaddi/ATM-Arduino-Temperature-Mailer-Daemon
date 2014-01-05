@@ -1,6 +1,7 @@
 # ATM Arduino Temperature Mailer Daemon #
 
-A simple Controller for a Terrarium. Powerd by ATMega2560 
+A simple Controller for a Terrarium that send Mails if anything went wrong. Powerd by a ATMega2560 Board. 
+For more Information Read the Handbook (https://github.com/vaddi/ATM-Arduino-Temperature-Mailer-Daemon/raw/master/doku/ATM_Handbuch.pdf)
 
 
 ## Dependencies ##
@@ -22,7 +23,7 @@ Get last version from github.com by following command:
 
     git clone https://github.com/vaddi/ATM-Arduino-Temperature-Mailer-Daemon.git ATM
 
-Edit Headerarea to set username, password, smtpserver, port, etc. 
+Edit Headerarea from ATM.ino and set username, password, smtpserver, port, times etc.  
 
 
 ## Usage ##
