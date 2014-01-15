@@ -1,7 +1,7 @@
-# ATM Arduino Temperature Mailer Daemon #
+# Arduino Temperature Mailer Daemon ATM #
 
-A simple Controller for a Terrarium that send Mails if anything went wrong. Powerd by a ATMega2560 Board. 
-For more Information Read the Handbook (https://github.com/vaddi/ATM-Arduino-Temperature-Mailer-Daemon/raw/master/doku/ATM_Handbuch.pdf)
+A simple Controller for a Terrarium that send Mails if something went wrong and controll a 4Channel Relais. Powerd by a ATMega2560 Board. 
+For more Information Read the German Handbook (https://github.com/vaddi/ATM-Arduino-Temperature-Mailer-Daemon/raw/master/doku/ATM_Handbuch.pdf)
 
 
 ## Dependencies ##
